@@ -1,8 +1,8 @@
-package file
+package c06_file
 
 import groovy.json.JsonOutput
 import groovy.json.JsonSlurper
-import oop.Person
+
 
 /**
  * @author DSH

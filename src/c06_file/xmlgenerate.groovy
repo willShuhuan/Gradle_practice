@@ -1,4 +1,4 @@
-package file
+package c06_file
 
 import groovy.xml.MarkupBuilder
 

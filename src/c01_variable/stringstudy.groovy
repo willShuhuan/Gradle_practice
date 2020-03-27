@@ -1,4 +1,4 @@
-package variable
+package c01_variable
 
 /**
  * @author DSH

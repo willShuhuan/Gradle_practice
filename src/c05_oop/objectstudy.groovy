@@ -1,4 +1,4 @@
-package oop
+package c05_oop
 
 /**
  * @author DSH

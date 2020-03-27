@@ -1,4 +1,4 @@
-package oop.example
+package c05_oop.example
 
 import oop.Person
 

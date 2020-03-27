@@ -1,4 +1,4 @@
-package closure
+package c02_closure
 
 /**
  * @author DSH

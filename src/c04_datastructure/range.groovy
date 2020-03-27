@@ -1,4 +1,4 @@
-package datastructure
+package c04_datastructure
 
 
 /**
